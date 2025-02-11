@@ -3,4 +3,4 @@
 
 ###  UNIDADE I
 
-##### &#10139; Um pixel é formado pela combinação de três cores que formam o sistem RGB (Red-Green-Blue)
+##### &#10139; Um pixel é formado pela combinação de três cores que formam o sistema RGB (Red-Green-Blue)
