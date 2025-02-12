@@ -9,5 +9,5 @@
 
 ##### &#10139; Nem sempre o modelo RGB é o ideal, existem modelos como CMYK que são mais eficientes
 
-
+##### &#10139; O sistema CMYK surge nas impressões em papeis, composto pelas cores Ciano, Magenta, Amarelo e Preto (Blac*K*)
 
