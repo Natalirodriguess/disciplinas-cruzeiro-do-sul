@@ -11,3 +11,4 @@
 
 ##### &#10139; O sistema CMYK surge nas impressões em papeis, composto pelas cores Ciano, Magenta, Amarelo e Preto (Blac*K*)
 
+##### &#10139; É possível alternar entre os dois sistemas (conversão)
