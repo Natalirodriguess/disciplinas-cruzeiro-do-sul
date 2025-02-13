@@ -12,3 +12,5 @@
 ##### &#10139; O sistema CMYK surge nas impressões em papeis, composto pelas cores Ciano, Magenta, Amarelo e Preto (Blac*K*)
 
 ##### &#10139; É possível alternar entre os dois sistemas (conversão) RGB para CMYK e vice versa
+
+##### &#10139; O sistema HSV é um sitema de cores baseados em H(Hue-Matiz) S (Saturation-Saturação) e V (Value-Luminância)
