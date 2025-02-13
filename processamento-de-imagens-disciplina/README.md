@@ -14,3 +14,7 @@
 ##### &#10139; É possível alternar entre os dois sistemas (conversão) RGB para CMYK e vice versa
 
 ##### &#10139; O sistema HSV é um sitema de cores baseados em H(Hue-Matiz) S (Saturation-Saturação) e V (Value-Luminância)
+
+##### &#10139; Uma imagem pode ser definida como uma matriz de pixels
+
+##### &#10139; Pixel significa Picture Element (menor elemento de uma imagem)
