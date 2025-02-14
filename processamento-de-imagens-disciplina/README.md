@@ -18,3 +18,8 @@
 ##### &#10139; Uma imagem pode ser definida como uma matriz de pixels
 
 ##### &#10139; Pixel significa Picture Element (menor elemento de uma imagem)
+
+
+###  UNIDADE II
+
+##### &#10139; Em uma imagem colorida cada pixl (menor unidade da imagem) pode ser formado por uma composição RGB e possuir diversas cores
