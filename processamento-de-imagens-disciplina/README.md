@@ -25,3 +25,12 @@
 ##### &#10139; Em uma imagem colorida cada pixl (menor unidade da imagem) pode ser formado por uma composição RGB e possuir diversas cores
 
 ##### &#10139; Chama-se de processamento de imagem uma transformação realizada em cada pixel través de cáculos, como a convolução 
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
