@@ -31,3 +31,4 @@
 graph TD;
     A(IMAGEM DE ENTRADA)-->|PROCESSAMENTO| B[IMAGEM DE SAIDA];
 ```
+##### &#10139; Convolução é o tratamento de uma matriz por outra chamada de núcleo (kernel) 
