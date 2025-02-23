@@ -26,11 +26,9 @@
 
 ##### &#10139; Chama-se de processamento de imagem uma transformação realizada em cada pixel través de cáculos, como a convolução 
 
-
+##### &#10139; Ideia geral representada no diagrama abaixo
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    IMAGEM  DE ENTRADA--> PROCESSAMENTO;
+    PROCESSAMENTO --> IMAGEM DE SAÍDA;
 ```
