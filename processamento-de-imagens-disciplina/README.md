@@ -29,6 +29,6 @@
 ##### &#10139; Ideia geral representada no diagrama abaixo
 ```mermaid
 graph TD;
-    'IMAGEM  DE ENTRADA'--> 'PROCESSAMENTO';
-    'PROCESSAMENTO' --> 'IMAGEM DE SAÍDA';
+    IMAGEM  DE ENTRADA-->PROCESSAMENTO;
+    PROCESSAMENTO-->IMAGEM DE SAÍDA;
 ```
